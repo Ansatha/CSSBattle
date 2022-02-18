@@ -15,7 +15,9 @@ Since game rules are not so compatible with real world best practices, you could
 
 ### [Battle #1 - Pilot Battle](https://cssbattle.dev/battle/1)
 
-- [#1 - Simply Square](https://cssbattle.dev/play/1) -> [HTML]() - [MD]()
+![Battle Katas img](./img/Battle1.png)
+
+- [#1 - Simply Square](https://cssbattle.dev/play/1) -> [HTML](./Battle#1-PilotBattle/01.SimplySquare.html) - [MD](./Battle#1-PilotBattle/01.SimplySquare.md)
 - [#2 - Carrom](https://cssbattle.dev/play/2) -> [HTML]() - [MD]()
 - [#3 - Push Button](https://cssbattle.dev/play/3) -> [HTML]() - [MD]()
 - [#4 - Ups n Downs](https://cssbattle.dev/play/4) -> [HTML]() - [MD]()
@@ -27,8 +29,6 @@ Since game rules are not so compatible with real world best practices, you could
 - [#10 - Cloaked Spirits](https://cssbattle.dev/play/10) -> [HTML]() - [MD]()
 - [#11 - Eye of Sauron](https://cssbattle.dev/play/11) -> [HTML]() - [MD]()
 - [#12 - Wiggly Moustache](https://cssbattle.dev/play/12) -> [HTML]() - [MD]()
-
-![Battle Katas img](./img/Battle1.png)
 
 ### [Battle #2 -](https://cssbattle.dev/battle/2)
 

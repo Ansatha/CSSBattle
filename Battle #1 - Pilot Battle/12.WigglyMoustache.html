@@ -1,0 +1,39 @@
+<!--
+https://cssbattle.dev/play/12
+
+Solutions.
+1: 440c
+-->
+<p a><p b><p>
+<style>
+  *{
+    zoom:2;
+    background:#f5d6b4}
+   p{
+     display:inline-block;
+     width:7.5;
+     height:4;
+     margin:14.5 -1.25;
+     border:2.5px solid#d86f45;
+     border-top-color:#f5d6b4;
+     border-top-width:0;
+     border-radius:0 0 50px 50px}
+  p[a]{margin-left: 4.7}
+  p[b]{
+    position:relative;
+    top:-6;
+    transform:rotate(180deg)}
+  p[b]:after,p[b]:before{
+    content:"";
+    position:absolute;
+    width:2.5;
+    height:1.5;
+    background:#d86f45;
+    left:17.5;
+    top:-0.1;
+    border-radius:0 0 5px 5px}
+  p[b]:after{left:-12.5}
+</style>
+
+<!-- 2: 167c-->
+<!-- <body bgcolor=19121><svg viewBox=.4.9,19.2,15><circle fill=#84271C cx=10 cy=8 r=1.25 /><path fill=none stroke=#ECA03D d=M3,8a2,2,0,004,0a3,3,0,110,.01m6,0a2,2,0,014,0> -->

@@ -4,9 +4,9 @@ Let's learn and enjoy codding CSS!
 
 You could check here all [CSSBattle](https://cssbattle.dev) katas and several solutions for each.
 
-Every kata has at least my solution (I'm aware they all can be improved, but they works) and some of them has a second one from top ten CSSBattle leaderboard.
+Every kata has at least my solution (I'm aware they all can be improved, but they works) and some of them has a second one from top CSSBattle leaderboard.
 
-Since game rules are not so compatible with real world best practices, you could find here two files per kata:
+Since game rules based on 'golfing' are not so compatible with real world best practices, you could find here two files per kata:
 
 - The *.md files contains the solution/s coding for get higher score in the game.
 - The *.html files contains only my solution coded for better understanding and readbility.
@@ -34,9 +34,19 @@ Since game rules are not so compatible with real world best practices, you could
 
 ![Battle Katas img](./img/Battle2.png)
 
+- [#13 - Simply Square](https://cssbattle.dev/play/13) -> [HTML](../Battle2-Visibility/13.TotallyTriangle.html) - [MD](../Battle2-Visibility/13.TotallyTriangle.md)
+- [#14 - Web Maker Logo](https://cssbattle.dev/play/14) -> [HTML](../Battle2-Visibility/14.WebMakerLogo.html) - [MD](../Battle2-Visibility/14.WebMakerLogo.md)
+- [#15 - Overlap](https://cssbattle.dev/play/15) -> [HTML](../Battle2-Visibility/15.Overlap.html) - [MD](../Battle2-Visibility/15.Overlap.md)
+- [#16 - Eye of the Tiger](https://cssbattle.dev/play/16) -> [HTML](../Battle2-Visibility/16.EyeOfTheTiger.html) - [MD](../Battle2-Visibility/16.EyeOfTheTiger.md)
+- [#17 - Fidget Spiner](https://cssbattle.dev/play/17) -> [HTML](../Battle2-Visibility/17.FidgetSpiner.html) - [MD](../Battle2-Visibility/17.FidgetSpiner.md)
+- [#18 - Matrix](https://cssbattle.dev/play/18) -> [HTML](../Battle2-Visibility/18.Matrix.html) - [MD](../Battle2-Visibility/18.Matrix.md)
+
 ### [Battle #3 -](https://cssbattle.dev/battle/3)
 
 ![Battle Katas img](./img/Battle3.png)
+
+- [#19 - Cube](https://cssbattle.dev/play/19) -> [HTML](../Battle3-Cursor/19.Cube.html) - [MD](../Battle3-Cursor/19.Cube.md)
+- [#20 - Web Maker Logo](https://cssbattle.dev/play/20) -> [HTML](../Battle3-Cursor/20.Ticket.html) - [MD](../Battle3-Cursor/20.Ticket.md)
 
 ### [Battle #4 -](https://cssbattle.dev/battle/4)
 

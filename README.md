@@ -34,32 +34,32 @@ Since game rules based on 'golfing' are not so compatible with real world best p
 
 ![Battle Katas img](./img/Battle2.png)
 
-- [#13 - Simply Square](https://cssbattle.dev/play/13) -> [HTML](../Battle2-Visibility/13.TotallyTriangle.html) - [MD](../Battle2-Visibility/13.TotallyTriangle.md)
-- [#14 - Web Maker Logo](https://cssbattle.dev/play/14) -> [HTML](../Battle2-Visibility/14.WebMakerLogo.html) - [MD](../Battle2-Visibility/14.WebMakerLogo.md)
-- [#15 - Overlap](https://cssbattle.dev/play/15) -> [HTML](../Battle2-Visibility/15.Overlap.html) - [MD](../Battle2-Visibility/15.Overlap.md)
-- [#16 - Eye of the Tiger](https://cssbattle.dev/play/16) -> [HTML](../Battle2-Visibility/16.EyeOfTheTiger.html) - [MD](../Battle2-Visibility/16.EyeOfTheTiger.md)
-- [#17 - Fidget Spiner](https://cssbattle.dev/play/17) -> [HTML](../Battle2-Visibility/17.FidgetSpiner.html) - [MD](../Battle2-Visibility/17.FidgetSpiner.md)
-- [#18 - Matrix](https://cssbattle.dev/play/18) -> [HTML](../Battle2-Visibility/18.Matrix.html) - [MD](../Battle2-Visibility/18.Matrix.md)
+- [#13 - Simply Square](https://cssbattle.dev/play/13) -> [HTML](./Battle2-Visibility/13.TotallyTriangle.html) - [MD](./Battle2-Visibility/13.TotallyTriangle.md)
+- [#14 - Web Maker Logo](https://cssbattle.dev/play/14) -> [HTML](./Battle2-Visibility/14.WebMakerLogo.html) - [MD](./Battle2-Visibility/14.WebMakerLogo.md)
+- [#15 - Overlap](https://cssbattle.dev/play/15) -> [HTML](./Battle2-Visibility/15.Overlap.html) - [MD](./Battle2-Visibility/15.Overlap.md)
+- [#16 - Eye of the Tiger](https://cssbattle.dev/play/16) -> [HTML](./Battle2-Visibility/16.EyeOfTheTiger.html) - [MD](./Battle2-Visibility/16.EyeOfTheTiger.md)
+- [#17 - Fidget Spiner](https://cssbattle.dev/play/17) -> [HTML](./Battle2-Visibility/17.FidgetSpiner.html) - [MD](./Battle2-Visibility/17.FidgetSpiner.md)
+- [#18 - Matrix](https://cssbattle.dev/play/18) -> [HTML](./Battle2-Visibility/18.Matrix.html) - [MD](./Battle2-Visibility/18.Matrix.md)
 
 ### [Battle #3 - Cursor](https://cssbattle.dev/battle/3)
 
 ![Battle Katas img](./img/Battle3.png)
 
-- [#19 - Cube](https://cssbattle.dev/play/19) -> [HTML](../Battle3-Cursor/19.Cube.html) - [MD](../Battle3-Cursor/19.Cube.md)
-- [#20 - Web Maker Logo](https://cssbattle.dev/play/20) -> [HTML](../Battle3-Cursor/20.Ticket.html) - [MD](../Battle3-Cursor/20.Ticket.md)
+- [#19 - Cube](https://cssbattle.dev/play/19) -> [HTML](./Battle3-Cursor/19.Cube.html) - [MD](./Battle3-Cursor/19.Cube.md)
+- [#20 - Web Maker Logo](https://cssbattle.dev/play/20) -> [HTML](./Battle3-Cursor/20.Ticket.html) - [MD](./Battle3-Cursor/20.Ticket.md)
 
 ### [Battle #4 - Display](https://cssbattle.dev/battle/4)
 
 ![Battle Katas img](./img/Battle4.png)
 
-- [#21 - SitePoint Logo](https://cssbattle.dev/play/21) -> [HTML](../Battle4-Display/21.SitePointLogo.html) - [MD](../Battle4-Display/21.SitePointLogo.md)
-- [#22 - Cloud](https://cssbattle.dev/play/22) -> [HTML](../Battle4-Display/22.Cloud.html) - [MD](../Battle4-Display/22.Cloud.md)
-- [#23 - Boxception](https://cssbattle.dev/play/23) -> [HTML](../Battle4-Display/23.Boxception.html) - [MD](../Battle4-Display/23.Boxception.md)
-- [#24 - Switches](https://cssbattle.dev/play/24) -> [HTML](../Battle4-Display/24.Switches.html) - [MD](../Battle4-Display/24.Switches.md)
-- [#25 - Blossom](https://cssbattle.dev/play/25) -> [HTML](../Battle4-Display/25.Blossom.html) - [MD](../Battle4-Display/25.Blossom.md)
-- [#26 - Smiley](https://cssbattle.dev/play/26) -> [HTML](../Battle4-Display/26.Smiley.html) - [MD](../Battle4-Display/26.Smiley.md)
-- [#27 - Lock Up](https://cssbattle.dev/play/27) -> [HTML](../Battle4-Display/27.LockUp.html) - [MD](../Battle4-Display/27.LockUp.md)
-- [#28 - Cups n Balls](https://cssbattle.dev/play/28) -> [HTML](../Battle4-Display/28.CupsNBalls.html) - [MD](../Battle4-Display/28.CupsNBalls.md)
+- [#21 - SitePoint Logo](https://cssbattle.dev/play/21) -> [HTML](./Battle4-Display/21.SitePointLogo.html) - [MD](./Battle4-Display/21.SitePointLogo.md)
+- [#22 - Cloud](https://cssbattle.dev/play/22) -> [HTML](./Battle4-Display/22.Cloud.html) - [MD](./Battle4-Display/22.Cloud.md)
+- [#23 - Boxception](https://cssbattle.dev/play/23) -> [HTML](./Battle4-Display/23.Boxception.html) - [MD](./Battle4-Display/23.Boxception.md)
+- [#24 - Switches](https://cssbattle.dev/play/24) -> [HTML](./Battle4-Display/24.Switches.html) - [MD](./Battle4-Display/24.Switches.md)
+- [#25 - Blossom](https://cssbattle.dev/play/25) -> [HTML](./Battle4-Display/25.Blossom.html) - [MD](./Battle4-Display/25.Blossom.md)
+- [#26 - Smiley](https://cssbattle.dev/play/26) -> [HTML](./Battle4-Display/26.Smiley.html) - [MD](./Battle4-Display/26.Smiley.md)
+- [#27 - Lock Up](https://cssbattle.dev/play/27) -> [HTML](./Battle4-Display/27.LockUp.html) - [MD](./Battle4-Display/27.LockUp.md)
+- [#28 - Cups n Balls](https://cssbattle.dev/play/28) -> [HTML](./Battle4-Display/28.CupsNBalls.html) - [MD](./Battle4-Display/28.CupsNBalls.md)
 
 ### [Battle #5 -](https://cssbattle.dev/battle/5)
 

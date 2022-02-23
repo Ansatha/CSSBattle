@@ -10,6 +10,8 @@ Since game rules based on 'golfing' are not so compatible with real world best p
 
 - The *.md files contains the solution/s coding for get higher score in the game.
 - The *.html files contains only my solution coded for better understanding and readbility.
+</br>
+</br>
 
 ## INDEX
 
@@ -29,6 +31,8 @@ Since game rules based on 'golfing' are not so compatible with real world best p
 - [#10 - Cloaked Spirits](https://cssbattle.dev/play/10) -> [HTML](./Battle1-PilotBattle/10.CloakedSpirits.html) - [MD](./Battle1-PilotBattle/10.CloakedSpirits.md)
 - [#11 - Eye of Sauron](https://cssbattle.dev/play/11) -> [HTML](./Battle1-PilotBattle/11.EyeOfSauron.html) - [MD](./Battle1-PilotBattle/11.EyeOfSauron.md)
 - [#12 - Wiggly Moustache](https://cssbattle.dev/play/12) -> [HTML](./Battle1-PilotBattle/12.WigglyMoustache.html) - [MD](./Battle1-PilotBattle/12.WigglyMoustache.md)
+</br>
+</br>
 
 ### [Battle #2 - Visibility](https://cssbattle.dev/battle/2)
 
@@ -40,6 +44,8 @@ Since game rules based on 'golfing' are not so compatible with real world best p
 - [#16 - Eye of the Tiger](https://cssbattle.dev/play/16) -> [HTML](./Battle2-Visibility/16.EyeOfTheTiger.html) - [MD](./Battle2-Visibility/16.EyeOfTheTiger.md)
 - [#17 - Fidget Spiner](https://cssbattle.dev/play/17) -> [HTML](./Battle2-Visibility/17.FidgetSpiner.html) - [MD](./Battle2-Visibility/17.FidgetSpiner.md)
 - [#18 - Matrix](https://cssbattle.dev/play/18) -> [HTML](./Battle2-Visibility/18.Matrix.html) - [MD](./Battle2-Visibility/18.Matrix.md)
+</br>
+</br>
 
 ### [Battle #3 - Cursor](https://cssbattle.dev/battle/3)
 
@@ -47,6 +53,8 @@ Since game rules based on 'golfing' are not so compatible with real world best p
 
 - [#19 - Cube](https://cssbattle.dev/play/19) -> [HTML](./Battle3-Cursor/19.Cube.html) - [MD](./Battle3-Cursor/19.Cube.md)
 - [#20 - Web Maker Logo](https://cssbattle.dev/play/20) -> [HTML](./Battle3-Cursor/20.Ticket.html) - [MD](./Battle3-Cursor/20.Ticket.md)
+</br>
+</br>
 
 ### [Battle #4 - Display](https://cssbattle.dev/battle/4)
 
@@ -60,10 +68,17 @@ Since game rules based on 'golfing' are not so compatible with real world best p
 - [#26 - Smiley](https://cssbattle.dev/play/26) -> [HTML](./Battle4-Display/26.Smiley.html) - [MD](./Battle4-Display/26.Smiley.md)
 - [#27 - Lock Up](https://cssbattle.dev/play/27) -> [HTML](./Battle4-Display/27.LockUp.html) - [MD](./Battle4-Display/27.LockUp.md)
 - [#28 - Cups n Balls](https://cssbattle.dev/play/28) -> [HTML](./Battle4-Display/28.CupsNBalls.html) - [MD](./Battle4-Display/28.CupsNBalls.md)
+</br>
+</br>
 
-### [Battle #5 -](https://cssbattle.dev/battle/5)
+### [Battle #5 - Inline](https://cssbattle.dev/battle/5)
 
 ![Battle Katas img](./img/Battle5.png)
+
+- [#29 - Suffocate](https://cssbattle.dev/play/29) -> [HTML](./29.Suffocate.html) - [MD](./29.Suffocate.md)
+- [#30 - Horizon](https://cssbattle.dev/play/30) -> [HTML](./30.Horizon.html) - [MD](./30.Horizon.md)
+</br>
+</br>
 
 ### [Battle #6 -](https://cssbattle.dev/battle/6)
 

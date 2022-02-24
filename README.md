@@ -75,14 +75,19 @@ Since game rules based on 'golfing' are not so compatible with real world best p
 
 ![Battle Katas img](./img/Battle5.png)
 
-- [#29 - Suffocate](https://cssbattle.dev/play/29) -> [HTML](./29.Suffocate.html) - [MD](./29.Suffocate.md)
-- [#30 - Horizon](https://cssbattle.dev/play/30) -> [HTML](./30.Horizon.html) - [MD](./30.Horizon.md)
+- [#29 - Suffocate](https://cssbattle.dev/play/29) -> [HTML](./Battle5-Inline/29.Suffocate.html) - [MD](./Battle5-Inline/29.Suffocate.md)
+- [#30 - Horizon](https://cssbattle.dev/play/30) -> [HTML](./Battle5-Inline/30.Horizon.html) - [MD](./Battle5-Inline/30.Horizon.md)
 </br>
 </br>
 
-### [Battle #6 -](https://cssbattle.dev/battle/6)
+### [Battle #6 - Conic](https://cssbattle.dev/battle/6)
 
 ![Battle Katas img](./img/Battle6.png)
+
+- [#31 - Equals](https://cssbattle.dev/play/31) -> [HTML](./Battle6-Conic/31.Equals.html) - [MD](./Battle6-Conic/31.Equals.md)
+- [#32 - Band-aid](https://cssbattle.dev/play/32) -> [HTML](./Battle6-Conic/32.Band-aid.html) - [MD](./Battle6-Conic/32.Band-aid.md)
+</br>
+</br>
 
 ### [Battle #7 -](https://cssbattle.dev/battle/7)
 

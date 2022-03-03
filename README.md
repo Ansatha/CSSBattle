@@ -93,6 +93,18 @@ Since game rules based on 'golfing' are not so compatible with real world best p
 
 ![Battle Katas img](./img/Battle7.png)
 
+- [#33 - Birdie](https://cssbattle.dev/play/33) -> [HTML](./Battle7-Backface/33.Birdie.html) - [MD](./Battle7-Backface/33.Birdie.md)
+- [#34 - Christmas Tree](https://cssbattle.dev/play/34) -> [HTML](./Battle7-Backface/34.ChristmasTree.html) - [MD](./Battle7-Backface/34.ChristmasTree.md)
+- [#35 - Ice Cream](https://cssbattle.dev/play/35) -> [HTML](./Battle7-Backface/35.IceCream.html) - [MD](./Battle7-Backface/35.IceCream.md)
+- [#36 - Interleaved](https://cssbattle.dev/play/36) -> [HTML](./Battle7-Backface/36.Interleaved.html) - [MD](./Battle7-Backface/36.Interleaved.md)
+- [#37 - Tunnel](https://cssbattle.dev/play/37) -> [HTML](./Battle7-Backface/37.Tunnel.html) - [MD](./Battle7-Backface/37.Tunnel.md)
+- [#38 - Not Simply Square](https://cssbattle.dev/play/38) -> [HTML](./Battle7-Backface/38.NotSimplySquare.html) - [MD](./Battle7-Backface/38.NotSimplySquare.md)
+- [#39 - Sunset](https://cssbattle.dev/play/39) -> [HTML](./Battle7-Backface/39.Sunset.html) - [MD](./Battle7-Backface/39.Sunset.md)
+- [#40 - Letter B](https://cssbattle.dev/play/40) -> [HTML](./Battle7-Backface/40.LetterB.html) - [MD](./Battle7-Backface/40.LetterB.md)
+- [#41 - Fox Head](https://cssbattle.dev/play/41) -> [HTML](./Battle7-Backface/41.FoxHead.html) - [MD](./Battle7-Backface/41.FoxHead.md)
+</br>
+</br>
+
 ### [Battle #8 -](https://cssbattle.dev/battle/8)
 
 ![Battle Katas img](./img/Battle8.png)

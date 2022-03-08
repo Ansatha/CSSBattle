@@ -109,6 +109,12 @@ Since game rules based on 'golfing' are not so compatible with real world best p
 
 ![Battle Katas img](./img/Battle8.png)
 
+- [#42 - Baby](https://cssbattle.dev/play/42) -> [HTML](./Battle8-Transition/42.Baby.html) - [MD](./Battle8-Transition/42.Baby.md)
+- [#43 - Wrench](https://cssbattle.dev/play/43) -> [HTML](./Battle8-Transition/43.Wrench.html) - [MD](./Battle8-Transition/43.Wrench.md)
+- [#44 - Stripes](https://cssbattle.dev/play/44) -> [HTML](./Battle8-Transition/44.Stripes.html) - [MD](./Battle8-Transition/44.Stripes.md)
+</br>
+</br>
+
 ### [Battle #9 -](https://cssbattle.dev/battle/9)
 
 ![Battle Katas img](./img/Battle9.png)
